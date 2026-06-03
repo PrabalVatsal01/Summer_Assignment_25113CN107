@@ -1,4 +1,4 @@
-
+// This program prints the multiplication table of a given number.
 import java.util.Scanner;
 
 public class Problem02 {

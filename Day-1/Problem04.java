@@ -1,3 +1,4 @@
+// This program counts the number of digits in a given number.
 import java.util.Scanner;
 public class Problem04 {
     public static void main(String[] args) {

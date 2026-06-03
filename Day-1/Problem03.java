@@ -1,3 +1,4 @@
+// This program calculates the factorial of a given number.
 import java.util.Scanner;
 public class Problem03 {
     public static void main(String[] args) {
