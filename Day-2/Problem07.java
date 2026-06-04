@@ -1,4 +1,4 @@
-
+//Program to find product of digits of a number.
 import java.util.*;
 public class Problem07 {
     public static void main(String[] args) {
