@@ -10,7 +10,5 @@ public class Problem45 {
         }
         return reverse == n ;
     }
-     public static void main(String[] args) {
-         System.out.print(palindrome(121));
-     }
+    
 }
